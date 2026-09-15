@@ -100,7 +100,7 @@ python manage.py runserver
 
 # Tab B (Frontend Static File Web Server - Open a new terminal tab):
 cd src/frontend
-python -m http.server 5500      if it says not fount then visit=>( http://124.0.0.1:5500/overview.html )
+python -m http.server 5500      if it says not fount then visit =>( http://124.0.0.1:5500/overview.html )
 
 
 ## 🖥️ Demo
