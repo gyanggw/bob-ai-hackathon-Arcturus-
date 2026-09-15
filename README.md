@@ -7,7 +7,7 @@
 |---|---|
 | **Team Name** | [Arcturus] |
 | **Track** | [AI] |
-| **Team Lead** | [Om patel] — [email@ibm.com] |
+| **Team Lead** | [Om patel] — 25dcs095@charusat.edu.in] |
 | **Members** | [Gyan Patel], [Pratham Patel], [Smit Tandel] |
 
 ---
