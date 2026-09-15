@@ -6,7 +6,9 @@
 
 ## The Problem
 
-[State the problem clearly and specifically. Avoid vague statements like "things are slow" — instead say "Operations teams spend an average of 45 minutes per incident diagnosing pipeline failures because logs are scattered across 6 different tools."]
+[During heavy rains and storms in Gujarat, power grid operators struggle because weather maps, asset data, and incident logs are split across totally different tools.
+    When grid equipment starts failing under stress, there is no single system that can take a live storm snapshot, read the coordinates, and warn operators which transformers are at high risk.
+    This makes maintenance teams purely reactive, causes long power outages, and delays crew deployment because dispatch logs are managed in messy, manual tables."]
 
 ## Who is Affected
 
