@@ -2,7 +2,7 @@
 
 ## Background
 
-[Describe the broader context. What domain or industry does this problem belong to? What situation creates the problem?]
+Energy management and weather prediction.
 
 ## The Problem
 
@@ -11,13 +11,11 @@
     This makes maintenance teams purely reactive, causes long power outages, and delays crew deployment because dispatch logs are managed in messy, manual tables."]
 
 ## Who is Affected
-
-[Describe the specific user or persona experiencing this problem. Be concrete — not "developers" but "backend engineers managing CI/CD pipelines in enterprises with 50+ microservices."]
+Electricity distribution companies, grid operators, and field engineers responsible for electrical substations and power transformers in weather-sensitive regions of India.
 
 ## Why It Matters
 
-[What is the cost of this problem? Lost time? Revenue? Safety risk? Frustration? Quantify if possible.]
+Inefficient Energy distribution. Loss of time and data. Inefficient workforce utilization.
 
 ## Why Existing Solutions Fall Short
-
-[Briefly explain what people currently do and why it doesn't fully solve the problem. This sets up why your solution is needed.]
+Efficient usage of workforce and time. decreased loss of power and energy resources. Weather and Past history data used for future prediction.
